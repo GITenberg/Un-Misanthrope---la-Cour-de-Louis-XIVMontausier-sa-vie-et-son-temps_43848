@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42435'
     url: http://www.gutenberg.org/2009/agents/42435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43848#Un-Misanthrope---la-Cour-de-Louis-XIVMontausier-sa-vie-et-son-temps
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-09-30'
 gutenberg_type: Text
