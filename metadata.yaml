@@ -1,0 +1,29 @@
+_repo: Un-Misanthrope---la-Cour-de-Louis-XIVMontausier-sa-vie-et-son-temps_43848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roux, Amédée
+    alias: Roux, Amedee
+    birthdate: 1828
+    gutenberg_agent_id: '42435'
+    url: http://www.gutenberg.org/2009/agents/42435
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43848'
+  lccn: '04003302'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcsh 'Montausier, Charles de Sainte-Maure, duc de, 1610-1690'
+title: 'Un Misanthrope à la Cour de Louis XIV: Montausier, sa vie et son temps'
+url: http://www.gutenberg.org/ebooks/43848
